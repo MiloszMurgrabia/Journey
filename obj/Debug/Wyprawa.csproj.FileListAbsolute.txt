@@ -1,0 +1,10 @@
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\bin\Debug\Wyprawa.exe.config
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\bin\Debug\Wyprawa.exe
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\bin\Debug\Wyprawa.pdb
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.csprojAssemblyReference.cache
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.Form1.resources
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.Properties.Resources.resources
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.csproj.GenerateResource.cache
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.exe
+C:\Users\Milosz\Desktop\Programowanie\Lab2\Wyprawa\Wyprawa\obj\Debug\Wyprawa.pdb
